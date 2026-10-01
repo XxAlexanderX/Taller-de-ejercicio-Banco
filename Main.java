@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// Integrantes: <tu nombre>, <nombre de tu companero>
+// Integrantes: Matias Riquelme, Brayan Martinez
 public class Main {
     static Scanner sc = new Scanner(System.in);
     static ArrayList<Cliente> clientes = new ArrayList<>();
